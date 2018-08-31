@@ -1,0 +1,29 @@
+{
+    "title": "Ideathon",
+    "name": "IncubateIND",
+    "version": "1.0",
+    "description": "Hackathon",
+    "keywords": [
+        "ideathon",
+        "incubatIND",
+        "hackathon"
+    ],
+    "homepage": "http://ideathon.incubateind.com/",
+    "bugs": {
+        "url": "http://ideathon.incubateind.com/404",
+        "email": "info@incubateIND.com"
+    },
+    "contributors": [
+        "Siddhant S Goral"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaiyeshsidh/Ideathon.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1"
+    }
+}
